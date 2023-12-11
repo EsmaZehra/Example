@@ -4,7 +4,7 @@ import Login from "./components/Login/Login";
 function App() {
   return (
     <div className="App">
-      <h1>Example 1</h1>
+      <h1>Example 1 - v1.1</h1>
 
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis, harum
