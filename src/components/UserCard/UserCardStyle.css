@@ -1,0 +1,32 @@
+.UserCardMain {
+  margin: 15px;
+  background-color: rgb(251, 244, 235);
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.UserCardMain:hover {
+  background-color: rgb(199, 235, 223);
+}
+
+.userCardFullname {
+  font-size: 21px;
+  font-weight: bold;
+  margin: 5px 0px;
+}
+.userCardEmail {
+}
+
+.userCardPhoneNumber {
+}
+
+.buttonToogle {
+  background-color: rgb(237, 225, 249);
+  border: 5px solid rgb(211, 247, 211);
+}
+
+.image1 {
+  width: 100px;
+}
